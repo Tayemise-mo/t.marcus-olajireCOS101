@@ -1,0 +1,12 @@
+C:\Users\tayem\t.marcus-olajireCOS101\week-4\project_1\target\debug\deps\gcore-cc310a92ef3befc9.d: C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\lib.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\errors.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\exec.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\msg.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\prog.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\utils.rs
+
+C:\Users\tayem\t.marcus-olajireCOS101\week-4\project_1\target\debug\deps\libgcore-cc310a92ef3befc9.rlib: C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\lib.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\errors.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\exec.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\msg.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\prog.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\utils.rs
+
+C:\Users\tayem\t.marcus-olajireCOS101\week-4\project_1\target\debug\deps\libgcore-cc310a92ef3befc9.rmeta: C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\lib.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\errors.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\exec.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\msg.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\prog.rs C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\utils.rs
+
+C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\lib.rs:
+C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\errors.rs:
+C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\exec.rs:
+C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\msg.rs:
+C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\prog.rs:
+C:\Users\tayem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gcore-1.9.2\src\utils.rs:
